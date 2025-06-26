@@ -11,16 +11,15 @@ flr075_DevRedCk
 (floor)(75%)(Developer)(Red)(Checkered)
 --
 Here's all the possible 3 letter names:
-wll - Walls
-wup - Wall Upper
-wlo - Wall Lower
-flr - Floors
-cei - Ceilings
-det - Detail Textures
-dor - Door Texture
-bar - Barricade Texture
-nse - Noise Texture
-pat - Pattern
-pri - Single color
-fun - Easter Eggs
---
+- wll - Walls
+- wup - Wall Upper
+- wlo - Wall Lower
+- flr - Floors
+- cei - Ceilings
+- det - Detail Textures
+- dor - Door Texture
+- bar - Barricade Texture
+- nse - Noise Texture
+- pat - Pattern
+- pri - Single color
+- fun - Easter Eggs
