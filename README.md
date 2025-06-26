@@ -1,5 +1,5 @@
 # Jeyphr's Wads
-# Feel free to use these textures in your projects. ~A little credit would be appreciated
+Feel free to use these textures in your projects. ~A little credit would be appreciated
 
 Textures are given a naming scheme for ease of search in J.A.C.K and Trench Broom
 -+---------------------------------------------------------------------------------------------------------------------------+-
