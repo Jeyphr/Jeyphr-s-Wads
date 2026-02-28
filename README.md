@@ -1,4 +1,4 @@
-# Jeyphr's Wads
+# Jeyphr's Wads 2.0
 Feel free to use these textures in your projects. ~A little credit would be appreciated
 
 Textures are given a naming scheme for ease of search in J.A.C.K and Trench Broom
