@@ -1,0 +1,2 @@
+Check out SeeDee's Half Life Tools on GitHub!
+https://github.com/seedee/SDHLT
