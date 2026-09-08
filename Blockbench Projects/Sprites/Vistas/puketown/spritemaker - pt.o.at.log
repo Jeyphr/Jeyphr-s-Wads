@@ -1,0 +1,4 @@
+﻿SpriteMaker.exe (v1.4.1.0) C:\Users\theje\Assets\Jeyphr-s-Wads\Blockbench Projects\Sprites\Vistas\puketown\pt.o.at.png
+Creating a single sprite from 'C:\Users\theje\Assets\Jeyphr-s-Wads\Blockbench Projects\Sprites\Vistas\puketown\pt.o.at.png' and saving it to 'C:\Users\theje\Assets\Jeyphr-s-Wads\Blockbench Projects\Sprites\Vistas\puketown\pt.spr'.
+WARNING: not all input files for 'pt' contain a frame number (C:\Users\theje\Assets\Jeyphr-s-Wads\Blockbench Projects\Sprites\Vistas\puketown\pt.at.png, C:\Users\theje\Assets\Jeyphr-s-Wads\Blockbench Projects\Sprites\Vistas\puketown\pt.o.at.png, C:\Users\theje\Assets\Jeyphr-s-Wads\Blockbench Projects\Sprites\Vistas\puketown\pt.o.png). Skipping sprite.
+Created 'C:\Users\theje\Assets\Jeyphr-s-Wads\Blockbench Projects\Sprites\Vistas\puketown\pt.spr' (from 'C:\Users\theje\Assets\Jeyphr-s-Wads\Blockbench Projects\Sprites\Vistas\puketown\pt.at.png' + 2 more files) in 0.206 seconds.
